@@ -1,3 +1,8 @@
+# 4ONSE Light Viewer
+
+This is a small react application usable with mobile phones.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
