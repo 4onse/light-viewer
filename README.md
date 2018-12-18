@@ -1,7 +1,10 @@
 # 4ONSE Light Viewer
 
-This is a small react application usable with mobile phones.
+This is a small react application usable with mobile phones, showing some sensors metadata and measurements using [istSOS2](https://github.com/istSOS/istsos2)  API.
 
+Sensor list (Home)                                        |  Last Measurements
+:--------------------------------------------------------:|:------------------------------------------------------------:
+<img src="assets/list.png" alt="alt text" width="250px">  |  <img src="assets/details.png" alt="alt text" width="250px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
